@@ -1,0 +1,37 @@
+#menu_top{
+	background: #1C29A0;
+	height: 40px;
+}
+#banner{
+	background-image: url("img/banner.jpg");
+	height: 500;
+	width: 1000px;
+}
+#foodter{
+	background: #1C29A0;
+	height: 30px;
+}
+#menu_top ul{
+	margin: 0px;
+	padding: 0px;
+}
+#menu_top ul li {
+	list-style: none;
+	float: left;
+
+}
+#menu_top ul li a{
+	text-decoration: none;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	color: #FFF;
+	padding: 0px 40px 0px 40px;
+	border-right: 1px solid #ccc;
+}
+#banner img{
+	width: 1520px;
+	height: 300px;
+
+}
+
